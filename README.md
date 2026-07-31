@@ -17,7 +17,7 @@ This map presents recreation and lodging resources near Bryce Canyon National Pa
 - Locator inset map
 - Legend, scale bar, and north arrow design
 
-[View the Bryce Canyon Recreation and Lodging Map](Bryce_canyon_recreation_lodging.pdf)
+![Recreation, Lodging, and Land Management near Bryce Canyon National Park](Bryce_canyon_recreation_lodging.png)
 
 ---
 
@@ -33,7 +33,7 @@ This map visualizes ski areas, ski lifts, and recreation trails in Salt Lake Cou
 - Multi-variable legend design
 - Thematic and reference map integration
 
-[View the Salt Lake County Ski and Recreation Map](Salt_lake_county_ski_recreation.pdf)
+![Ski Areas, Lift Capacity, and Recreation Trails in Salt Lake County](Salt_lake_county_ski_recreation.png)
 
 ---
 
@@ -49,7 +49,7 @@ This map presents the geographic distribution of population and recreation resou
 - Integration of demographic and recreation data
 - Terrain basemap design
 
-[View the Salt Lake County Population Choropleth Map](Salt_lake_county_population_choropleth.pdf)
+![Population and Recreation Resources in Salt Lake County: Choropleth Map](Salt_lake_county_population_choropleth.png)
 
 ---
 
@@ -65,7 +65,7 @@ This map examines the spatial relationship between population centers and recrea
 - Multi-layer map composition
 - Professional cartographic layout design
 
-[View the Salt Lake County Population Proportional-Symbol Map](Salt_lake_county_population_proportional_symbols.pdf)
+![Population Centers and Recreation Resources in Salt Lake County](Salt_lake_county_population_proportional_symbols.png)
 
 ## Technical Skills Demonstrated
 
@@ -91,4 +91,4 @@ This map examines the spatial relationship between population centers and recrea
 
 ## About Me
 
-I am a PhD student at the University of Utah with experience in GIS, spatial data science, Python, and geospatial analysis. My research and applied projects focus on spatial data processing, transportation, environmental exposure, human mobility, and geographic visualization.
+I am a PhD student at the University of Utah with experience in GIS, spatial data science, Python, and geospatial analysis. My research and applied projects focus on spatial data processing, transportation, human mobility, environmental exposure, human health, and geographic visualization.
